@@ -67,6 +67,7 @@ INFO: Beginning extraction from war file
 
 ```
 some lines removed for clarity, eventually you will see an entry like this:
+
 ```
 INFO: 
 
@@ -90,3 +91,30 @@ $
 Open your browser on http://127.0.0.1:8080 and you should see a page like this:
 
 ![image](https://user-images.githubusercontent.com/14877967/42444352-c1cbe094-8367-11e8-904e-57e0845062df.png)
+
+Enter the admin password from the logs and you should see this menu:
+
+![image](https://user-images.githubusercontent.com/14877967/42444455-1106b9cc-8368-11e8-88d3-67b25172852c.png)
+
+click on **Select plugins to install**
+
+Add the following plugins to the selected set:
+
++ Build Pipeline
++ GitHub
+
+Click on **install**
+
+Once the install completes enter the details for you admin user account and URL and click **Save and Continue** followed by **Start using Jenkins**
+
+Unfortunately we still need another plugin, so slecte **Manage Jenkins** followed by **Manage Plugins**.
+
+Click on the **Available** tab and select the following additional plugin
+
++ Pipeline Utility Steps
+
+Then select **Install without restart** then **Go back to the top page**.
+
+
+
+
