@@ -87,4 +87,6 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 ^C
 $
 ```
+Open your browser on http://127.0.0.1:8080 and you should see a page like this:
+
 
