@@ -89,4 +89,4 @@ $
 ```
 Open your browser on http://127.0.0.1:8080 and you should see a page like this:
 
-
+![image](https://user-images.githubusercontent.com/14877967/42444352-c1cbe094-8367-11e8-904e-57e0845062df.png)
